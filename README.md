@@ -51,4 +51,3 @@ Decision Tree (F1: 0.8913 | Accuracy: 0.8917 | AUC: 0.9330)
 (https://github.com/Vaish-Shanmugasundaram/DryBeanClassification-ML)
 
 ## Live Streamlit Application
-Replace this line with your Streamlit Community Cloud URL.
